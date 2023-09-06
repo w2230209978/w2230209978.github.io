@@ -239,9 +239,9 @@ yat:
 
 # Build settings
 # highlighter: none
-markdown: kramdown
-kramdown:
-  input: GFM
+markdown: Pandoc
+#kramdown:
+  #input: GFM
 
 plugins:
   - jekyll-feed
